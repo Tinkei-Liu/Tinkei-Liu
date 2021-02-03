@@ -6,4 +6,4 @@
 🌏博客地址：https://blog.stgit.cn/   
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tinkei-Liu)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tinkei-Liu)

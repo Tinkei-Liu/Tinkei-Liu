@@ -1,9 +1,12 @@
 ### Hi,I'm Tinkei.Liu.👋   
 
-😀中文名刘天棋，肇源一中高一学生。    
-📷爱好摄影、代码、逗猫、遛鸟。   
-📕正在开发中的项目：Wordpress主题 Waikei    
-🌏博客地址：https://blog.stgit.cn/   
+国内某重点高中高二学生
+
+Bilibili：https://space.bilibili.com/453015278
+
+知乎：@刘天棋
+
+weibo：@Tinkei_Liu
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tinkei-Liu)

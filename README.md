@@ -1,12 +1,12 @@
 ### Hi,I'm Tinkei.Liu.👋   
 
-Bilibili：https://space.bilibili.com/453015278
+Bilibili：@我耳朵不是特别好 https://space.bilibili.com/1365442101
 
-稀土掘金：@刘天棋
+稀土掘金：@刘天棋 https://juejin.cn/user/4336129593062552
 
-阿里云开发者社区：@刘天棋
+阿里云开发者社区：@刘天棋 https://developer.aliyun.com/profile/expert/i3v63yejpfeew
 
-Weibo：@我耳朵不是特别好
+Weibo：@我耳朵不是特别好 https://weibo.com/u/7548072394
 
 Website：https://www.stgit.cn
 
